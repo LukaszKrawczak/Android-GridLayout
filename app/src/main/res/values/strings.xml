@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GridLayout</string>
+    <string name="text_view">This is the test</string>
+    <string name="click_me">Nacisnij we mnie</string>
+    <string name="edit">Tutaj możesz wpisywac.</string>
+    <string name="to_hint">Wpisz adres e-mail</string>
+    <string name="to">Do</string>
+    <string name="message">Tresc wiadomosci</string>
+    <string name="send">Wyslij</string>
+</resources>
